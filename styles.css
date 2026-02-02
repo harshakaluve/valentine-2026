@@ -4,4 +4,9 @@ h1 { font-size: 2em; color: #d32f2f; }
 .buttons { display: flex; flex-direction: column; align-items: center; gap: 15px; margin-top: 20px; }
 .yes-button { font-size: 1.2em; padding: 10px 25px; background-color: #fa0561; color: white; border: none; border-radius: 50px; cursor: pointer; }
 .no-button { font-size: 1em; padding: 10px 20px; background-color: #d3d3d3; border: none; border-radius: 50px; cursor: pointer; }
-.gif_container img { width: 250px; border-radius: 15px; }
+.gif_container img {
+    max-width: 250px; /* Keep it small for phones */
+    width: 80%;
+    height: auto;
+    border-radius: 15px;
+}
