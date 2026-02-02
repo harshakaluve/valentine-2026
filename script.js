@@ -1,7 +1,7 @@
 const messages = [
     "Are you sure, Spoorthi?",
     "Really sure?? 🥺",
-    "Pookie please...",
+    "Baby please...",
     "Think about Thailand! 🏝️",
     "I'll be so sad...",
     "Just kidding, say yes please! ❤️"
