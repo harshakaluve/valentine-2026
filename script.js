@@ -1,9 +1,13 @@
 const messages = [
     "Are you sure, Spoorthi?",
-    "Really sure?? 🥺",
-    "Baby please...",
-    "Think about Thailand! 🏝️",
-    "I'll be so sad...",
+    "Think about our first meeting on March 2nd... ☕",
+    "What about our Bumble match on Feb 26th? 🐝",
+    "Remember when I said 'I love you' on March 16th? ❤️",
+    "Think about when I proposed on Sept 27th! 💍",
+    "Remember our engagement on October 5th? ✨",
+    "Our wedding is literally in 31 days! 👰",
+    "Think about Thailand on your birthday! 🏝️",
+    "I'll be very very very sad...",
     "Just kidding, say yes please! ❤️"
 ];
 let messageIndex = 0;
