@@ -1,4 +1,11 @@
-const messages = ["Are you sure?", "Pookie please...", "Don't do this! 😭", "I'll be so sad...", "Just say yes! ❤️"];
+const messages = [
+    "Are you sure, Spoorthi?",
+    "Really sure?? 🥺",
+    "Pookie please...",
+    "Think about Thailand! 🏝️",
+    "I'll be so sad...",
+    "Just kidding, say yes please! ❤️"
+];
 let messageIndex = 0;
 
 function handleNoClick() {
